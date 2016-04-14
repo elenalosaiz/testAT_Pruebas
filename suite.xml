@@ -1,0 +1,7 @@
+<suite name="testAT" verbose="10" parallel="instances" thread-count="1">
+	<test name="default acceptance tests">
+		<packages>
+			<package name="com.datio.testAT.*"/>
+		</packages>
+	</test>
+</suite>
